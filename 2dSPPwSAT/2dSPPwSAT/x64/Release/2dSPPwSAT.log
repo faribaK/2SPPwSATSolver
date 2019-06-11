@@ -1,0 +1,15 @@
+﻿  2dSPPwSAT.c
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\SPPProblem.h(42): warning C4013: 'lower_bound' undefined; assuming extern returning int
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\SPPProblem.h(43): warning C4013: 'upper_bound' undefined; assuming extern returning int
+2dSPPwSAT.c(224): warning C4477: 'printf' : format string '%12d' requires an argument of type 'int', but variadic argument 1 has type 'uint64'
+  2dSPPwSAT.c(224): note: consider using '%lld' in the format string
+  2dSPPwSAT.c(224): note: consider using '%Id' in the format string
+  2dSPPwSAT.c(224): note: consider using '%I64d' in the format string
+2dSPPwSAT.c(517): warning C4013: 'getche' undefined; assuming extern returning int
+  Generating code
+  17 of 101 functions (16.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2dSPPwSAT.vcxproj -> C:\Users\farib\Documents\CS 517\Project\2dSPPwSAT\x64\Release\2dSPPwSAT.exe
+  2dSPPwSAT.vcxproj -> C:\Users\farib\Documents\CS 517\Project\2dSPPwSAT\x64\Release\2dSPPwSAT.pdb (Full PDB)

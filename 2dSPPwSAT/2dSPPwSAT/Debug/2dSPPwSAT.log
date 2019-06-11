@@ -1,0 +1,21 @@
+﻿  2dSPPwSAT.c
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\sppproblem.h(42): warning C4013: 'lower_bound' undefined; assuming extern returning int
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\sppproblem.h(43): warning C4013: 'upper_bound' undefined; assuming extern returning int
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(224): warning C4477: 'printf' : format string '%12d' requires an argument of type 'int', but variadic argument 1 has type 'uint64'
+  c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(224): note: consider using '%lld' in the format string
+  c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(224): note: consider using '%I64d' in the format string
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(311): warning C4477: 'fprintf' : format string '%.0lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(311): warning C4477: 'fprintf' : format string '%.0lf' requires an argument of type 'double', but variadic argument 2 has type 'int'
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(334): warning C4477: 'fprintf' : format string '%.0lf' requires an argument of type 'double', but variadic argument 6 has type 'int'
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(334): warning C4477: 'fprintf' : format string '%.0lf' requires an argument of type 'double', but variadic argument 7 has type 'int'
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(458): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\2dsppwsat.c(517): warning C4013: 'getche' undefined; assuming extern returning int
+  solver.c
+  Generating Code...
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\sppproblem.h(263): warning C4716: 'create_initial_vars': must return a value
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\sppproblem.h(558): warning C4716: 'clear_SPP': must return a value
+c:\users\farib\documents\cs 517\project\2dsppwsat\2dsppwsat\sppproblem.h(562): warning C4716: 'clear_Problem': must return a value
+  stdafx.cpp
+  LINK : C:\Users\farib\Documents\CS 517\Project\2dSPPwSAT\Debug\2dSPPwSAT.exe not found or not built by the last incremental link; performing full link
+  2dSPPwSAT.vcxproj -> C:\Users\farib\Documents\CS 517\Project\2dSPPwSAT\Debug\2dSPPwSAT.exe
+  2dSPPwSAT.vcxproj -> C:\Users\farib\Documents\CS 517\Project\2dSPPwSAT\Debug\2dSPPwSAT.pdb (Full PDB)

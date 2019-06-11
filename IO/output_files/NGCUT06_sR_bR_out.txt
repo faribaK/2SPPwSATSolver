@@ -1,0 +1,18 @@
+PROBLEM SIZE: clauses - 5742 literals - 16088
+TIME TO SOLVE: 3.15 sec
+HEIGHT: 31 (optimal)
+x1 = 0, y1 = 12
+x2 = 0, y2 = 16
+x3 = 8, y3 = 2
+x4 = 2, y4 = 16
+x5 = 0, y5 = 14
+x6 = 2, y6 = 0
+x7 = 0, y7 = 29
+x8 = 0, y8 = 26
+x9 = 9, y9 = 12
+x10 = 0, y10 = 6
+x11 = 4, y11 = 14
+x12 = 4, y12 = 20
+x13 = 5, y13 = 2
+x14 = 8, y14 = 20
+x15 = 0, y15 = 2
