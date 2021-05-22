@@ -1,4 +1,4 @@
-# 2SPPwSATSolver
+# 2D Strip Packing Problem with SAT Solver
 1. Extract the file from zip and click on the .sln file inside 2dSPPwSAT folder.
 2. Run the program.
 3. Upon running, it asks for a path to the input file containing a 2SPP problem.
