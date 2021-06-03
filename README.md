@@ -17,4 +17,4 @@
 16.  for each rectangle i (i=1,...,n): 
 17.     (x_i, y_i) coordinate of the lower left corner of rectangle i in found arrangement
 
-For details: [See here](https://github.com/faribaK/2SPPwSATSolver/blob/master/Project%20Report/Project_Report.pdf)
+For details: [See Project Report](https://github.com/faribaK/2SPPwSATSolver/blob/master/Project%20Report/Project_Report.pdf)
